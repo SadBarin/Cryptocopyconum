@@ -1,6 +1,8 @@
 {
   "name": "cryptocopyconum",
   "version": "0.0.0",
+  "author": "SadBarin",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
